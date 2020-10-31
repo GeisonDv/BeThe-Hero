@@ -21,9 +21,9 @@ Um evento gratuito para ensinar a densevolver uma aplicação que ajuda as pesso
 # Tecnologias utilizadas
 
 
-- [NodeJs](https://nodejs.org/en/)
-- [ReactJs]()
-- [React-Native]()
+- NodeJs
+- ReactJs
+- React-Native
 
 - npm
 - Expo
